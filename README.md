@@ -66,12 +66,12 @@ GridSearchCV improved the recall score, which is important for churn prediction 
 
 ## Technologies
 
- -Python
- -Pandas
- -NumPy
- -Matplotlib
- -Seaborn
- -Scikit-learn
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
  
 ---
 ## What I learrn
